@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=333333&lines=Welcome+to+my+GitHub+profile!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mchhour31&label=Profile%20views&color=0e75b6&style=flat" alt="mchhour31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mchhour31&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="mchhour31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mchhour31" alt="mchhour31" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mchhour31&theme=onedark" alt="mchhour31" /></a> </p>
 
 - 🌱 I’m currently learning **React and Typescript**
 

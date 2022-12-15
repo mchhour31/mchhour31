@@ -18,6 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mchhour31&theme=dark" alt="mchhour31" width='420px'/></p>
 
-<p>Currently jamming to.. </p>
+<h3 align="left">Currently jamming to.. </h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1288555967&count=3&unique=true)

@@ -17,3 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mchhour31&show_icons=true&theme=dark&locale=en" alt="mchhour31" width='420px'/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mchhour31&theme=dark" alt="mchhour31" width='420px'/></p>
+
+<p>Currently jamming to.. </p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1288555967&count=3&unique=true)

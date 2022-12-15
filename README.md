@@ -1,7 +1,7 @@
 
 # Hi, I'm Marlon! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mchhour31&label=Profile%20views&color=0e75b6&style=flat-square" alt="mchhour31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mchhour31&label=Profile%20views&color=0e75b6&style=flat-square&color=ff69b4" alt="mchhour31" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mchhour31" alt="mchhour31" /></a> </p>
 
